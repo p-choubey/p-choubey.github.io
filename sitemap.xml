@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
     <loc>https://p-choubey.github.io/</loc>
+    <lastmod>2026-09-28</lastmod>
   </url>
 
   <url>
-    <loc>https://p-choubey.github.io/A%20Miniaturised%20High-Pass%20Frequency%20Selective%20Surface%20for%20Sub-6%20GHz%20Shielding%20Applications_author-submitted.pdf</loc>
+    <loc>https://p-choubey.github.io/fss-sub6ghz.html</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+
+  <url>
+    <loc>YOUR-EXACT-PDF-URL-HERE</loc>
+    <lastmod>2026-09-16</lastmod>
   </url>
 
 </urlset>
