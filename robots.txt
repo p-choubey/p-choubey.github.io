@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://p-choubey.github.io/sitemap.xml
